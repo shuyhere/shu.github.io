@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Shu Yang (杨澍)"
 description              : &description "hi,shu yang here. "
 url                      : https://shuyhere.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "shuyhere/shuyhere.github.io" # GitHub rep
 
 # Site Author - The following control what appear as part of the author content on the side bar.
