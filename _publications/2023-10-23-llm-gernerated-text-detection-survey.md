@@ -1,6 +1,6 @@
 ---
 title: "A survey on llm-gernerated text detection: Necessity, methods, and future directions"
-collection: llm-gernerated text detection
+collection: publication
 permalink: /publication/2023-10-23-llm-gernerated-text-detection-survey
 excerpt: 'The powerful ability to understand, follow, and generate complex language emerging from large language models (LLMs) makes LLM-generated text flood many areas of our daily
 lives at an incredible speed and is widely accepted by humans. As LLMs continue to expand,
