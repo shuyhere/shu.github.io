@@ -16,7 +16,7 @@ artificial intelligence (AI). Our aim with this survey is to provide a clear and
 introduction for newcomers while also offering seasoned researchers a valuable update in the
 field of LLM-generated text detection. '
 date: 2023-10-23
-venue: 
+# venue: 
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2310.14724'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
